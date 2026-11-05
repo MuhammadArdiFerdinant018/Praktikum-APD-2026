@@ -1,6 +1,3 @@
-# validasi.py
-# Modul untuk input yang divalidasi (merek, ukuran, harga, ID) dan cek duplikat.
-
 from data import data_sepatu
 from tampilan import pesan_gagal
 

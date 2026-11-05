@@ -1,6 +1,3 @@
-# autentikasi.py
-# Modul untuk login dan register. Password disembunyikan memakai pwinput.
-
 import pwinput
 from data import data_user, Role
 from tampilan import (bersihkan_layar, tekan_enter, judul,

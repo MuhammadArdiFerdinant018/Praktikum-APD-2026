@@ -1,5 +1,3 @@
-# data.py
-
 Role = ("atmin", "yahaha user")
 
 data_user = {
@@ -13,5 +11,4 @@ data_sepatu = {
     3: {"merek": "asics", "ukuran": 41, "harga": 1500000},
 }
 
-# Dibungkus dictionary supaya nilainya bisa diubah dari file lain
 counter = {"id_terakhir": 3}
